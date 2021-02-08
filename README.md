@@ -5,7 +5,7 @@
 
 script settings for future reference:  
 
-**commands.sh:**
+**commands.sh:**  
 GIT_PROJECT_NAME="sdworxHRhackathon2021"  
   
 **virtualmachine_deploy.azcli:**  
