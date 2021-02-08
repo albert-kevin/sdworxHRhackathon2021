@@ -28,3 +28,8 @@ code/notebooks/automl_errors.log
 code/notebooks/automl.log
 code/notebooks/azureml_automl.log
 code/notebooks/.azureml/conda_dependencies.yml
+neo4j/plugins/apoc-nlp-dependencies-4.2.0.1.jar
+neo4j/plugins/bloom-plugin-4.x-1.5.0.jar
+neo4j/plugins/neo4j-bloom-1.5.0-assets.zip
+neo4j/plugins/neo4j-bloom-1.5.0.zip
+docker-compose.yml
